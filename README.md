@@ -1,6 +1,6 @@
 # 0x11. C - printf 
 
-- Writing our own `printf` function, this is a project done under [ALX Low Level Programming](https://github.com/iAmG-r00t/alx-low_level_programming).
+- Writing our own `printf` function, this is a project done under [printf](https://github.com/RonCyber/printf).
 
 ## Resource
 
@@ -56,13 +56,7 @@
 - All test files will be in the [test](./test) directory.
 
 
-### Authors
-
-- iAmG-r00t 👾
-- Michael Ndula [@Michaelndula](https://github.com/Michaelndula) 👨‍💻
-
-
-## Tasks
+## Task
 
 0. **I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life** : A function that produces output according to a format.
 	- Prototype: int `_printf(const char *format, ...);`
